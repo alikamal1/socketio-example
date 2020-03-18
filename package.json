@@ -1,0 +1,17 @@
+{
+  "name": "websockets-example",
+  "version": "1.0.0",
+  "description": "a simple websockets example",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon index"
+  },
+  "author": "Ali Kamal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
