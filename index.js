@@ -18,6 +18,10 @@ io.on('connection', function (socket) {
     console.log('made socket connenction ', socket.id);
 
     socket.on('chat', function (data) {
-        io.sockets.emit('chat', data);
+        io.sockets.emit('chat', data); // send to all sockets
+    });
+
+    socket.on('typing', function (data) {
+        socket.broadcast.emit('typing', data);
     });
 });
