@@ -1,7 +1,7 @@
 # websockets-example
 a simple websockets example
 
-<img width="400" height="400" src="https://raw.githubusercontent.com/alikamal1/websockets-example/master/screenshot.PNG">
+<img src="https://raw.githubusercontent.com/alikamal1/websockets-example/master/screenshot.PNG">
 
 ## Server Side
 Socket setup to express server variable
