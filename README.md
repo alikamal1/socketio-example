@@ -1,5 +1,5 @@
-# websockets-example
-a simple websockets example
+# socketio-example
+a simple socket.io example
 
 <img src="https://raw.githubusercontent.com/alikamal1/websockets-example/master/screenshot.PNG">
 
