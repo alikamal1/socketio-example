@@ -1,7 +1,7 @@
 {
-  "name": "websockets-example",
+  "name": "socketio-example",
   "version": "1.0.0",
-  "description": "a simple websockets example",
+  "description": "a simple socket.io example",
   "main": "index.js",
   "scripts": {
     "start-dev": "nodemon index"
